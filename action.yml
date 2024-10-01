@@ -30,3 +30,7 @@ runs:
           exit 1  # Fail the action
         fi
       shell: bash
+
+branding:
+  icon: "anchor"
+  color: "blue"
